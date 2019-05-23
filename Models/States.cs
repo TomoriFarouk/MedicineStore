@@ -5,12 +5,9 @@ using System.Threading.Tasks;
 
 namespace OnlineMedicineStore.Models
 {
-    public class Stores
+    public class States
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Address { get; set; }
-        public string Description { get; set; }
-        public Drugs drugs { get; set; }
     }
 }
