@@ -31,3 +31,36 @@ C:\Users\Victory Onoro\source\repos\OnlineMedicineStore\OnlineMedicineStore\obj\
 C:\Users\Victory Onoro\source\repos\OnlineMedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.pdb
 C:\Users\Victory Onoro\source\repos\OnlineMedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.csproj.CopyComplete
 C:\Users\Victory Onoro\source\repos\OnlineMedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Medicine\Store.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\bin\Debug\netcoreapp2.1\OnlineMedicineStore.deps.json
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\bin\Debug\netcoreapp2.1\OnlineMedicineStore.runtimeconfig.json
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\bin\Debug\netcoreapp2.1\OnlineMedicineStore.runtimeconfig.dev.json
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\bin\Debug\netcoreapp2.1\OnlineMedicineStore.dll
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\bin\Debug\netcoreapp2.1\OnlineMedicineStore.pdb
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\bin\Debug\netcoreapp2.1\OnlineMedicineStore.Views.dll
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\bin\Debug\netcoreapp2.1\OnlineMedicineStore.Views.pdb
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.csprojAssemblyReference.cache
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.csproj.CoreCompileInputs.cache
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.RazorAssemblyInfo.cache
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.RazorAssemblyInfo.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.AssemblyInfoInputs.cache
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.AssemblyInfo.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.TagHelpers.input.cache
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.TagHelpers.output.cache
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.RazorCoreGenerate.cache
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Medicine\Store.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.RazorTargetAssemblyInfo.cache
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.RazorTargetAssemblyInfo.cs
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.Views.pdb
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.dll
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.pdb
+C:\PROJECT\MedicalStore\MedicineStore\OnlineMedicineStore\obj\Debug\netcoreapp2.1\OnlineMedicineStore.csproj.CopyComplete
